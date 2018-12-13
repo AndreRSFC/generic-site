@@ -1,0 +1,325 @@
+#capa1{
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  max-height: 1080px;
+  position: absolute;
+  top: -29%;
+}
+
+#faixa{
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  max-height: 1080px;
+  top: -29%;
+  max-height:20px;
+  background-color: black;
+  position: relative;
+}
+
+#cabecalho{
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  color: #f5bb00;
+}
+
+#pcabec{
+  float: right;
+}
+
+.cor{
+  background-color: black;
+}
+
+#sombra{
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  position: absolute;
+}
+
+#descricao{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-align: center;
+}
+
+#descricao>h2{
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  color: #f5bb00;
+}
+
+#traco{
+  width: 100%;
+  height: 100%;
+  max-width: 110px;
+  max-height: 20px;
+}
+
+#descricao>h4{
+  padding-top: 1%;
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  color: white;
+}
+
+#descricao>p{
+  font-weight: lighter;
+  color: white;
+  font-size: 20.5px;
+}
+
+#escudo{
+  position: absolute;
+  top: -1%;
+  padding-top: 2%;
+  width: 100%;
+  height: 100%;
+  max-width: 100px;
+  max-height: 133px;
+}
+
+#publico{
+  border-top: #f5bb00 solid 2px;
+  background-color: white;
+  position: relative;
+  display: block;
+  margin: 0;
+  padding-bottom: 0;
+  padding-top: 3%;
+}
+
+#tracoPP{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 70px;
+  max-height: 15px;
+}
+
+.txtmain{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-align: center;
+}
+
+
+.txtmain>p{
+  padding-top: 1%;
+  font-weight: lighter;
+  font-family: 'Open Sans';
+  color: #3a3a3a;
+  font-size: 12px;
+}
+
+.txtmain>h4{
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  color: #f5bb00;
+}
+
+#descPub{
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  color: #3a3a3a;
+  font-size: 18px;
+}
+
+#descPub>span{
+  padding-right: 5%;
+}
+
+
+.pessoas>img{
+  width: 100%;
+  height: 100%;
+  margin: 2%;
+}
+
+#bb{
+  max-width: 35px;
+  margin-left: 10%;
+  margin-right: 6%;
+}
+
+#crianca{
+  max-width: 66px;
+  margin-left: 1.5%;
+}
+
+#joven{
+  max-width: 60px;
+  margin-left: 3%;
+}
+
+#mulher{
+  max-width: 40px;
+  margin-left: 3%;
+}
+
+#senior{
+  max-width: 66px;
+  margin-left: 6%;
+  margin-right: 5%
+}
+
+.pessoas>h6>span{
+  font-weight: bold;
+  padding: 3%;
+  color: #3a3a3a;
+}
+
+#bSkills{
+  margin: 3%;
+  font-family: 'Open Sans';
+  font-weight: 900;
+  border: none;
+  background: #f5bb00;
+  color:#282828;
+  padding: 0.5%;
+}
+
+#camposmain{
+  background-color:#f5bb00;
+  position: relative;
+  display: block;
+  margin: 0;
+  padding-bottom: 0;
+  padding-top: 3%;
+}
+
+.inputs{
+  font-family: 'Open Sans';
+  width: 100%;
+  height: 100%;
+  max-width:340px;
+  max-height: 55px;
+  padding: 0.5%;  
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 3px;
+  border:1px solid #777777;
+}
+
+::-webkit-input-placeholder {
+  font-family: 'Open Sans';
+  font-size: 75%;
+  font-style: italic;
+  color: #777777;
+}
+
+#bCampos{
+  font-family: 'Open Sans';
+  font-weight: bold;
+  border: none;
+  background: #282828;
+  color:#f5bb00;
+  padding: 0.5%;  
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+  margin-bottom: 2.5%;
+}
+
+#info{
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  font-weight: bolder;
+  color:white;
+  padding-bottom: 0.2%;
+}
+
+#skillsimg{
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  max-height: 380px;
+  position: absolute;
+}
+
+#maiskillsT{
+  position: relative;
+  font-weight: bolder;
+  font-family: 'Open Sans';
+  font-weight: bolder;
+  color:#f5bb00;
+  background-color: none;
+}
+
+#maiskillsP{
+  position: relative;
+  padding-top: 1%;
+  font-weight: lighter;
+  font-family: 'Open Sans';
+  color: #ffffff;
+  font-size: 12px;
+}
+
+footer{
+  margin-top: 5%;
+  background-color: #f5bb00;
+  color: #282828;
+  font-size: 60%;
+}
+
+#footEscudo{
+  margin-top: 4%;
+  width: 100%;
+  height: 100%;
+  max-width: 38px;
+  max-height: 44px;
+}
+
+.tfoot{
+  display: inline;
+  margin-left: 10%;
+  position: relative;
+}
+
+#myCarousel{
+  max-height: 180px;
+}
+
+.aa{
+  margin-top: 10%;
+  max-width: 60px;
+  max-height: 80px;
+}
+
+.carousel{
+  top: -50px;
+}
+
+#footA{
+  display: inline;
+  float: left;
+  margin-left: 15%;
+}
+
+#foott{
+  display: inline;
+  float: left;
+  margin-left: 10%;
+}
+
+#footC{
+  display: inline;
+  float: left;
+  margin-left: 1%;
+}
+
+.bb{
+  margin-top: 5%;
+}
+
+#capa2{
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  max-height: 1080px;
+  position: absolute;
+}

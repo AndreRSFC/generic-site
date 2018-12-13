@@ -1,0 +1,54 @@
+#titulo1{
+    font-size: 400%;
+    margin-top:6.5%; 
+    position: relative;
+    color: #f5bb00;
+    font-family: 'Open Sans';
+    font-weight: bolder;
+  }
+  
+#bquemsomos{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: 'Open Sans';
+    font-weight: 900;
+    border: none;
+    background: #f5bb00;
+    color:#282828;
+    padding: 0.5%;
+    position: relative;
+    display: block;
+}
+
+#nos{
+    margin-right:4%;
+    margin-bottom:4%; 
+    max-width: 305px;
+    max-height: 245px;
+    float: left;
+}
+
+#pnos{
+    text-align:justify;
+}
+
+#bnos{
+    margin: 3%;
+    font-family: 'Open Sans';
+    font-weight: 900;
+    border: none;
+    background: #f5bb00;
+    color:#282828;
+    padding: 0.5%;
+    display: block;
+}
+#contato{
+    width: 100%;
+    height: 100%;
+    max-width: 1920px;
+    position: absolute;
+}
+
+#input2{
+    position: relative;
+}
